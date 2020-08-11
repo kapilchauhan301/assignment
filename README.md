@@ -1,6 +1,6 @@
 # Assignment
 
-please install module following modules
+please install following modules
 
 1. npm i react-redux
 2. npm i redux
